@@ -24,6 +24,16 @@ An end-to-end retrieval and grounded-generation system, with accepted submission
 
 A hands-on LangGraph workshop that builds a Deep Research workflow step by step through notebooks, slides, and sample reports.
 
+## Featured talks
+
+### [Building a Search Engine — PyData Seattle 2023](https://www.youtube.com/watch?v=BvrOCq36SRs)
+
+[![Title slide for Building a Search Engine — PyData Seattle 2023](assets/featured-talks/building-search-engine-pydata-seattle-2023.png)](https://www.youtube.com/watch?v=BvrOCq36SRs)
+
+### [Serving BERT Models with TorchServe — PyData Global 2021](https://www.youtube.com/watch?v=sDGxzkOvxqY)
+
+[![Title slide for Serving BERT Models with TorchServe — PyData Global 2021](assets/featured-talks/serving-bert-pydata-global-2021.png)](https://www.youtube.com/watch?v=sDGxzkOvxqY)
+
 ## Talks and workshops
 
 ### Search and retrieval
